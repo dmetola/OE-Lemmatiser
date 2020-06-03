@@ -24,8 +24,7 @@ This is a preliminary version, but a fully-working one. Apart from the much-need
 it also needs to be improved so that it can cope with larger sets of texts, or even full corpora, but that first issue has 
 to be fixed before moving on more complex issues.
 
-Another thing I need to point out is that, at the moment, this program was implemented in a Jupyter notebook, I am not sure
-if how it will work in an IDE. This is something that will also be improved in future versions of the project.
+Another thing I need to point out is that, at the moment, this program was implemented in a Jupyter notebook, under conda environment, I am not sure of how it will work in an IDE. This is something that will also be improved in future versions of the project.
 
 To wrap up, this is my first project in NLP and Python. Although I have experience in manual lemmatisation, manual tagging
 and tokenisation in Old English, I have wanted for some time to create a program that may allow students, researchers and
