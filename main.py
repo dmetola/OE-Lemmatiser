@@ -31,7 +31,7 @@ doc = (#ENTER YOUR STRING HERE)
 
 lemma = lemmatizer.lemmatize(doc, best_guess=False)
 
-with open('TOKEN-LEMMA-POS.txt', 'a+') as f:
+with open(#ENTER-YOUR-FILE-NAME.txt, 'a+') as f:
     print(lemma, file = f)
     
 %%writefile -a #ENTER-YOUR-FILE-NAME.txt
